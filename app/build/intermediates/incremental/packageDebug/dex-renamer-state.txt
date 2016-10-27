@@ -1,0 +1,7 @@
+#Thu Oct 27 10:36:26 EDT 2016
+base.0=/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a0c71dfda54d908c914d2643eec69c822e653d31
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_568b1ebcb203116ef1c502cb3f17f62dae87b45c/classes.dex
+base.1=/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_568b1ebcb203116ef1c502cb3f17f62dae87b45c
+file.0=/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a0c71dfda54d908c914d2643eec69c822e653d31/classes.dex

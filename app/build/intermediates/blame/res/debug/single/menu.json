@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/res/merged/debug/menu/menu_note_detail.xml",
+        "source": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/menu/menu_note_detail.xml"
+    },
+    {
+        "merged": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/res/merged/debug/menu/menu_notes.xml",
+        "source": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/menu/menu_notes.xml"
+    }
+]
