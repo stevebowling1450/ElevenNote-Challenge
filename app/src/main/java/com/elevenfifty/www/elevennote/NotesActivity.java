@@ -11,14 +11,20 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Spinner;
+
 import com.google.gson.Gson;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Date;
+import java.util.List;
 
 
 public class NotesActivity extends AppCompatActivity {
@@ -30,12 +36,14 @@ public class NotesActivity extends AppCompatActivity {
     public static final String NOTE_DUETIME = "com.elevenfifty.www.elevennote.NOTE_DUETIME";
 
 
+
     private String filename="todo";
 
     private ListView notesList;
-//    private final String[] notes = new String[] {"note 1", "note 2", "note 3"};
+
     private ArrayList<Note> notesArray;
     private NotesArrayAdapter notesArrayAdapter;
+    List<Note> todos = new ArrayList<>();
 
     private SharedPreferences notesPrefs;
     private Gson gson;
@@ -45,8 +53,10 @@ public class NotesActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_notes);
 
+
+
+
         notesList = (ListView)findViewById(R.id.listView);
-//        notesList.setAdapter(new ArrayAdapter<>(this, R.layout.notes_textview_list_item, notes));
 
         notesPrefs = getPreferences(Context.MODE_PRIVATE);
         gson = new Gson();
@@ -70,7 +80,6 @@ public class NotesActivity extends AppCompatActivity {
                 intent.putExtra(NOTE_DUEDATE, note.getDueDate());
                 intent.putExtra(NOTE_DUETIME, note.getDueTime());
 
-//                startActivity(intent);
                 startActivityForResult(intent, 1);
             }
         });
@@ -89,9 +98,11 @@ public class NotesActivity extends AppCompatActivity {
                         deleteFile(note.getKey());
                         notesArray.remove(position);
                         notesArrayAdapter.updateAdapter(notesArray);
+                        writeTodos();
                     }
                 });
                 alertBuilder.create().show();
+
                 return true;
             }
         });
@@ -115,7 +126,7 @@ public class NotesActivity extends AppCompatActivity {
                 note.setKey(oldNote.getKey());
                 notesArray.set(index, note);
             }
-            writeFile(note);
+            writeTodos();
             Collections.sort(notesArray);
             notesArrayAdapter.updateAdapter(notesArray);
         }
@@ -123,54 +134,87 @@ public class NotesActivity extends AppCompatActivity {
 
     private void setupNotes() {
         notesArray = new ArrayList<>();
-        if (notesPrefs.getBoolean("firstRun", true)) {
-            SharedPreferences.Editor editor = notesPrefs.edit();
-            editor.putBoolean("firstRun", false);
-            editor.apply();
+        File filesDir = this.getFilesDir();
+        File todoFile = new File(filesDir + File.separator + filename);
+        if (todoFile.exists()) {
+            readTodos(todoFile);
 
-            Note note1 = new Note("Task 1", "This is a task", new Date(), "Shopping", "Due 9/12/17","5:30am");
-            notesArray.add(note1);
-            for (Note note : notesArray) {
-                writeFile(note);
+            for (Note note : todos){
+                notesArray.add(note);
             }
-        } else {
-            File[] filesDir = this.getFilesDir().listFiles();
-            for (File file : filesDir) {
-                if (file.getName().equals(filename)) {
-                    FileInputStream inputStream = null;
-                    String title = file.getName();
-                    Date date = new Date(file.lastModified());
-                    String text = "";
-                    String dueDate = "";
-                    String category = "";
-                    try {
-                        inputStream = openFileInput(title);
-                        byte[] input = new byte[inputStream.available()];
-                        while (inputStream.read(input) != -1) {
-                        }
-                        text += new String(input);
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    } finally {
-                        Note note = gson.fromJson(text, Note.class);
-                        note.setDate(date);
-                        notesArray.add(note);
-                        try {
-                            inputStream.close();
-                        } catch (Exception ignored) {
 
-                        }
-                    }
+
+            if (notesPrefs.getBoolean("firstRun", true)) {
+                SharedPreferences.Editor editor = notesPrefs.edit();
+                editor.putBoolean("firstRun", false);
+                editor.apply();
+
+                Note note1 = new Note("Task 1", "This is a task", new Date(), "Shopping", "Due 9/12/17", "5:30am");
+                notesArray.add(note1);
+                for (Note note : notesArray) {
+
                 }
             }
+            writeTodos();
+//        else {
+//            File[] filesDir = this.getFilesDir().listFiles();
+//            for (File file : filesDir) {
+//                if (file.getName().equals(filename)) {
+//                    FileInputStream inputStream = null;
+//                    String title = file.getName();
+//                    Date date = new Date(file.lastModified());
+//                    String text = "";
+//                    String dueDate = "";
+//                    String category = "";
+//                    try {
+//                        inputStream = openFileInput(title);
+//                        byte[] input = new byte[inputStream.available()];
+//                        while (inputStream.read(input) != -1) {
+//                        }
+//                        text += new String(input);
+//                    } catch (Exception e) {
+//                        e.printStackTrace();
+//                    } finally {
+//                        Note note = gson.fromJson(text, Note.class);
+//                        note.setDate(date);
+//                        notesArray.add(note);
+//                        try {
+//                            inputStream.close();
+//                        } catch (Exception ignored) {
+//
+//                        }
+//                    }
+//                }
+//            }
+//        }
+        }
+    }
+    private void readTodos(File todoFile) {
+        FileInputStream inputStream = null;
+        String todosText = "";
+        try {
+            inputStream = openFileInput(todoFile.getName());
+            byte[] input = new byte[inputStream.available()];
+            while (inputStream.read(input) != -1) {}
+            todosText = new String(input);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            Note[] todoList = gson.fromJson(todosText, Note[].class);
+            todos = Arrays.asList(todoList);
         }
     }
 
-    private void writeFile(Note note) {
+
+    private void writeTodos() {
         FileOutputStream outputStream = null;
         try {
             outputStream = openFileOutput(filename, Context.MODE_PRIVATE);
-            outputStream.write(gson.toJson(note).getBytes());
+
+            String json = gson.toJson(notesArray);
+            byte[] bytes = json.getBytes();
+            outputStream.write(bytes);
+
             outputStream.flush();
         } catch (Exception e) {
             e.printStackTrace();
@@ -180,7 +224,6 @@ public class NotesActivity extends AppCompatActivity {
             } catch (Exception ignored) {}
         }
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

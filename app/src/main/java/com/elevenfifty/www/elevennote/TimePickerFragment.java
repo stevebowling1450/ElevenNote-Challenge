@@ -23,8 +23,6 @@ import android.widget.TimePicker;
     String am_pm;
     String col=":";
 
-
-
     @RequiresApi(api = Build.VERSION_CODES.N)
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
@@ -33,14 +31,10 @@ import android.widget.TimePicker;
         hour = c.get(Calendar.HOUR_OF_DAY);
         minute = c.get(Calendar.MINUTE);
 
-
-
         // Create a new instance of TimePickerDialog and return it
         return new TimePickerDialog(getActivity(), this, hour, minute,
                 DateFormat.is24HourFormat(getActivity()));
-
     }
-
     public void onTimeSet(TimePicker view, int hour, int minute) {
 
         if (hour == 0) {

@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="armeabi-v7a,armeabi"
     api-level="23"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="151233630208731"
+    timestamp="24046007436894"
     token="7817583108165219187"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="418" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="66" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
+        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="150958487050675"
+        timestamp="24046007436894"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="151233630208731"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

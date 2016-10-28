@@ -25,11 +25,11 @@ MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/stevebo
 MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:25.0.0] /Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/AndroidManifest.xml:8:9-30
 	android:allowBackup
 		ADDED from /Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/AndroidManifest.xml:7:9-36
 	android:theme
 		ADDED from /Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/AndroidManifest.xml:9:9-40
 activity#com.elevenfifty.www.elevennote.NotesActivity

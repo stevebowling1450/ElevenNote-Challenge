@@ -5,13 +5,14 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="com.elevenfifty.www.elevennote.NoteDetailActivity"
-    android:background="#cccccccc">
+    android:background="#A29785">
 
     <ImageView
         android:id="@+id/imgView"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1" >
+        android:layout_weight="1
+        ">
     </ImageView>
 
     <Button
@@ -21,50 +22,9 @@
         android:id="@+id/save_button"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
-
-    <Button
-        android:id="@+id/chooseTime"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Select Time"
-        android:onClick="showTimePickerDialog"
-        android:layout_above="@+id/save_button"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <Button
-        android:id="@+id/chooseDate"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Select Date"
-        android:onClick="showDatePickerDialog"
-        android:layout_above="@+id/chooseTime"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="16dp" />
-
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:id="@+id/note_title"
-        android:background="#ffffffff"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:inputType="textMultiLine"
-        android:ems="10"
-        android:id="@+id/note_text"
-        android:gravity="top"
-        android:background="#ffffffff"
-        android:layout_below="@+id/imgView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="53dp" />
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/buttonshape"
+        />
 
     <TextView
         android:layout_width="wrap_content"
@@ -88,22 +48,88 @@
         android:layout_alignRight="@+id/dateView"
         android:layout_alignEnd="@+id/dateView" />
 
-    <Spinner
+
+    <Button
+        android:text="Choose Photo"
         android:layout_width="wrap_content"
-        android:entries="@array/category_arrays"
         android:layout_height="wrap_content"
-        android:id="@+id/catDrop"
-        android:layout_above="@+id/chooseDate"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="16dp" />
+        android:id="@+id/picButton"
+        android:onClick="loadImagefromGallery"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/buttonshape" />
+
+    <TextView
+        android:text="Category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/catDrop"
+        android:layout_alignLeft="@+id/save_button"
+        android:layout_alignStart="@+id/save_button"
+        android:id="@+id/catpic"
+        android:visibility="invisible"/>
 
     <TextView
         android:text="Please Choose a Category"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/catDrop"
+        android:id="@+id/pickCat"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/catDrop"
+        android:spinnerMode="dropdown"
+        android:layout_below="@+id/pickCat"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/pickCat" />
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:id="@+id/chooseTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Time"
+        android:onClick="showTimePickerDialog"
+        android:background="@drawable/buttonshape"
+        android:layout_above="@+id/picButton"
+        android:layout_alignRight="@+id/chooseDate"
+        android:layout_alignEnd="@+id/chooseDate"
+        android:layout_marginBottom="10dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/note_text"
+        android:gravity="top"
+        android:background="#CBC7BC"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/note_title"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/chooseDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Date"
+        android:onClick="showDatePickerDialog"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/buttonshape"
+        android:layout_above="@+id/chooseTime"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/note_title"
+        android:background="#CBC7BC"
+        android:layout_below="@+id/imgView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>

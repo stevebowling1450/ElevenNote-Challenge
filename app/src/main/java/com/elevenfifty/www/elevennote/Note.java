@@ -88,7 +88,7 @@ public class Note implements Comparable<Note> {
 
     @Override
     public int compareTo(Note another) {
-//        return getDate().compareTo(another.getDate());
-        return another.getDate().compareTo(getDate());
+        return getCategory().compareTo(another.getCategory());
+
     }
 }

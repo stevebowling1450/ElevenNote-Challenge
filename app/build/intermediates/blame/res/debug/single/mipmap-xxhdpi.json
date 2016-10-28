@@ -2,5 +2,9 @@
     {
         "merged": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/todo.png",
+        "source": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/mipmap-xxhdpi/todo.png"
     }
 ]

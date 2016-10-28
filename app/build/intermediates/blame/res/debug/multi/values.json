@@ -16,10 +16,10 @@
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 287,
+                        "startOffset": 282,
                         "endLine": 12,
                         "endColumn": 19,
-                        "endOffset": 430
+                        "endOffset": 425
                     }
                 }
             },
@@ -4064,9 +4064,9 @@
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 509,
+                        "startOffset": 504,
                         "endColumn": 52,
-                        "endOffset": 557
+                        "endOffset": 552
                     }
                 }
             },
@@ -4083,9 +4083,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 118,
+                        "startOffset": 113,
                         "endColumn": 52,
-                        "endOffset": 166
+                        "endOffset": 161
                     }
                 }
             },
@@ -4094,8 +4094,8 @@
                     "startLine": 352,
                     "startColumn": 4,
                     "startOffset": 34467,
-                    "endColumn": 47,
-                    "endOffset": 34510
+                    "endColumn": 42,
+                    "endOffset": 34505
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
@@ -4103,8 +4103,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 47,
-                        "endOffset": 59
+                        "endColumn": 42,
+                        "endOffset": 54
                     }
                 }
             },
@@ -4112,18 +4112,18 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 34515,
+                    "startOffset": 34510,
                     "endColumn": 41,
-                    "endOffset": 34552
+                    "endOffset": 34547
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 604,
+                        "startOffset": 599,
                         "endColumn": 41,
-                        "endOffset": 641
+                        "endOffset": 636
                     }
                 }
             },
@@ -4131,18 +4131,18 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 34557,
+                    "startOffset": 34552,
                     "endColumn": 37,
-                    "endOffset": 34590
+                    "endOffset": 34585
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 211,
+                        "startOffset": 206,
                         "endColumn": 37,
-                        "endOffset": 244
+                        "endOffset": 239
                     }
                 }
             },
@@ -4150,18 +4150,18 @@
                 "to": {
                     "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 34595,
+                    "startOffset": 34590,
                     "endColumn": 41,
-                    "endOffset": 34632
+                    "endOffset": 34627
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 562,
+                        "startOffset": 557,
                         "endColumn": 41,
-                        "endOffset": 599
+                        "endOffset": 594
                     }
                 }
             },
@@ -4169,18 +4169,18 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 34637,
+                    "startOffset": 34632,
                     "endColumn": 90,
-                    "endOffset": 34723
+                    "endOffset": 34718
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 646,
+                        "startOffset": 641,
                         "endColumn": 90,
-                        "endOffset": 732
+                        "endOffset": 727
                     }
                 }
             },
@@ -4188,18 +4188,18 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 34728,
+                    "startOffset": 34723,
                     "endColumn": 52,
-                    "endOffset": 34776
+                    "endOffset": 34771
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 65,
+                        "startOffset": 60,
                         "endColumn": 52,
-                        "endOffset": 113
+                        "endOffset": 108
                     }
                 }
             },
@@ -4207,9 +4207,9 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 34781,
+                    "startOffset": 34776,
                     "endColumn": 52,
-                    "endOffset": 34829
+                    "endOffset": 34824
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4226,9 +4226,9 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 34834,
+                    "startOffset": 34829,
                     "endColumn": 70,
-                    "endOffset": 34900
+                    "endOffset": 34895
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4245,18 +4245,18 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 34905,
+                    "startOffset": 34900,
                     "endColumn": 37,
-                    "endOffset": 34938
+                    "endOffset": 34933
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 249,
+                        "startOffset": 244,
                         "endColumn": 37,
-                        "endOffset": 282
+                        "endOffset": 277
                     }
                 }
             },
@@ -4264,18 +4264,18 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 34943,
+                    "startOffset": 34938,
                     "endColumn": 39,
-                    "endOffset": 34978
+                    "endOffset": 34973
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 171,
+                        "startOffset": 166,
                         "endColumn": 39,
-                        "endOffset": 206
+                        "endOffset": 201
                     }
                 }
             },
@@ -4283,18 +4283,18 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 34983,
+                    "startOffset": 34978,
                     "endColumn": 73,
-                    "endOffset": 35052
+                    "endOffset": 35047
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 435,
+                        "startOffset": 430,
                         "endColumn": 73,
-                        "endOffset": 504
+                        "endOffset": 499
                     }
                 }
             },
@@ -4302,9 +4302,9 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 35057,
+                    "startOffset": 35052,
                     "endColumn": 77,
-                    "endOffset": 35130
+                    "endOffset": 35125
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4321,9 +4321,9 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 35135,
+                    "startOffset": 35130,
                     "endColumn": 89,
-                    "endOffset": 35220
+                    "endOffset": 35215
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4340,9 +4340,9 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 35225,
+                    "startOffset": 35220,
                     "endColumn": 87,
-                    "endOffset": 35308
+                    "endOffset": 35303
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4359,9 +4359,9 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 35313,
+                    "startOffset": 35308,
                     "endColumn": 95,
-                    "endOffset": 35404
+                    "endOffset": 35399
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4378,10 +4378,10 @@
                 "to": {
                     "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 35409,
+                    "startOffset": 35404,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 35534
+                    "endOffset": 35529
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/src/main/res/values/styles.xml",
@@ -4399,10 +4399,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 35539,
+                    "startOffset": 35534,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 36035
+                    "endOffset": 36030
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4420,9 +4420,9 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 36040,
+                    "startOffset": 36035,
                     "endColumn": 88,
-                    "endOffset": 36124
+                    "endOffset": 36119
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4439,10 +4439,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 36129,
+                    "startOffset": 36124,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 36371
+                    "endOffset": 36366
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4460,10 +4460,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 36376,
+                    "startOffset": 36371,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 36652
+                    "endOffset": 36647
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4481,10 +4481,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 36657,
+                    "startOffset": 36652,
                     "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 36937
+                    "endOffset": 36932
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4502,10 +4502,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 36942,
+                    "startOffset": 36937,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 37330
+                    "endOffset": 37325
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4523,10 +4523,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 37335,
+                    "startOffset": 37330,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 37807
+                    "endOffset": 37802
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4544,10 +4544,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 37812,
+                    "startOffset": 37807,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 38029
+                    "endOffset": 38024
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4565,10 +4565,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 38034,
+                    "startOffset": 38029,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 38251
+                    "endOffset": 38246
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4586,10 +4586,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 38256,
+                    "startOffset": 38251,
                     "endLine": 416,
                     "endColumn": 12,
-                    "endOffset": 38519
+                    "endOffset": 38514
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4607,10 +4607,10 @@
                 "to": {
                     "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 38524,
+                    "startOffset": 38519,
                     "endLine": 420,
                     "endColumn": 12,
-                    "endOffset": 38746
+                    "endOffset": 38741
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4628,10 +4628,10 @@
                 "to": {
                     "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 38751,
+                    "startOffset": 38746,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 38976
+                    "endOffset": 38971
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4649,10 +4649,10 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 38981,
+                    "startOffset": 38976,
                     "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 39206
+                    "endOffset": 39201
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4670,10 +4670,10 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 39211,
+                    "startOffset": 39206,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 39436
+                    "endOffset": 39431
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4691,10 +4691,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 39441,
+                    "startOffset": 39436,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 39666
+                    "endOffset": 39661
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4712,10 +4712,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 39671,
+                    "startOffset": 39666,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 39893
+                    "endOffset": 39888
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4733,10 +4733,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 39898,
+                    "startOffset": 39893,
                     "endLine": 444,
                     "endColumn": 12,
-                    "endOffset": 40132
+                    "endOffset": 40127
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4754,10 +4754,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 40137,
+                    "startOffset": 40132,
                     "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 40358
+                    "endOffset": 40353
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4775,10 +4775,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 40363,
+                    "startOffset": 40358,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 40603
+                    "endOffset": 40598
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4796,10 +4796,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 40608,
+                    "startOffset": 40603,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 40833
+                    "endOffset": 40828
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4817,10 +4817,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 40838,
+                    "startOffset": 40833,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 41081
+                    "endOffset": 41076
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4838,10 +4838,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 41086,
+                    "startOffset": 41081,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 41300
+                    "endOffset": 41295
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4859,10 +4859,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 41305,
+                    "startOffset": 41300,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 41583
+                    "endOffset": 41578
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4880,10 +4880,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 41588,
+                    "startOffset": 41583,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 41791
+                    "endOffset": 41786
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4901,10 +4901,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 41796,
+                    "startOffset": 41791,
                     "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 41922
+                    "endOffset": 41917
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4922,10 +4922,10 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 41927,
+                    "startOffset": 41922,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 42149
+                    "endOffset": 42144
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4943,10 +4943,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 42154,
+                    "startOffset": 42149,
                     "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 42395
+                    "endOffset": 42390
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4964,10 +4964,10 @@
                 "to": {
                     "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 42400,
+                    "startOffset": 42395,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 42620
+                    "endOffset": 42615
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -4985,10 +4985,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 42625,
+                    "startOffset": 42620,
                     "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 42867
+                    "endOffset": 42862
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5006,10 +5006,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 42872,
+                    "startOffset": 42867,
                     "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 43088
+                    "endOffset": 43083
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5027,10 +5027,10 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 43093,
+                    "startOffset": 43088,
                     "endLine": 500,
                     "endColumn": 12,
-                    "endOffset": 43333
+                    "endOffset": 43328
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5048,10 +5048,10 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 43338,
+                    "startOffset": 43333,
                     "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 43609
+                    "endOffset": 43604
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5069,10 +5069,10 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 43614,
+                    "startOffset": 43609,
                     "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 43910
+                    "endOffset": 43905
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5090,10 +5090,10 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 43915,
+                    "startOffset": 43910,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 44234
+                    "endOffset": 44229
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5111,10 +5111,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 44239,
+                    "startOffset": 44234,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 44525
+                    "endOffset": 44520
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5132,10 +5132,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 44530,
+                    "startOffset": 44525,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 44839
+                    "endOffset": 44834
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5153,9 +5153,9 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 44844,
+                    "startOffset": 44839,
                     "endColumn": 136,
-                    "endOffset": 44976
+                    "endOffset": 44971
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5172,9 +5172,9 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 44981,
+                    "startOffset": 44976,
                     "endColumn": 130,
-                    "endOffset": 45107
+                    "endOffset": 45102
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5191,9 +5191,9 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 45112,
+                    "startOffset": 45107,
                     "endColumn": 104,
-                    "endOffset": 45212
+                    "endOffset": 45207
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5210,10 +5210,10 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 45217,
+                    "startOffset": 45212,
                     "endLine": 526,
                     "endColumn": 12,
-                    "endOffset": 45416
+                    "endOffset": 45411
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5231,10 +5231,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 45421,
+                    "startOffset": 45416,
                     "endLine": 529,
                     "endColumn": 12,
-                    "endOffset": 45624
+                    "endOffset": 45619
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5252,10 +5252,10 @@
                 "to": {
                     "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 45629,
+                    "startOffset": 45624,
                     "endLine": 533,
                     "endColumn": 12,
-                    "endOffset": 45895
+                    "endOffset": 45890
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5273,9 +5273,9 @@
                 "to": {
                     "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 45900,
+                    "startOffset": 45895,
                     "endColumn": 111,
-                    "endOffset": 46007
+                    "endOffset": 46002
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5292,9 +5292,9 @@
                 "to": {
                     "startLine": 535,
                     "startColumn": 4,
-                    "startOffset": 46012,
+                    "startOffset": 46007,
                     "endColumn": 111,
-                    "endOffset": 46119
+                    "endOffset": 46114
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5311,9 +5311,9 @@
                 "to": {
                     "startLine": 536,
                     "startColumn": 4,
-                    "startOffset": 46124,
+                    "startOffset": 46119,
                     "endColumn": 104,
-                    "endOffset": 46224
+                    "endOffset": 46219
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5330,9 +5330,9 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 46229,
+                    "startOffset": 46224,
                     "endColumn": 116,
-                    "endOffset": 46341
+                    "endOffset": 46336
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5349,10 +5349,10 @@
                 "to": {
                     "startLine": 538,
                     "startColumn": 4,
-                    "startOffset": 46346,
+                    "startOffset": 46341,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 46555
+                    "endOffset": 46550
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5370,10 +5370,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 46560,
+                    "startOffset": 46555,
                     "endLine": 542,
                     "endColumn": 12,
-                    "endOffset": 46701
+                    "endOffset": 46696
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5391,10 +5391,10 @@
                 "to": {
                     "startLine": 543,
                     "startColumn": 4,
-                    "startOffset": 46706,
+                    "startOffset": 46701,
                     "endLine": 544,
                     "endColumn": 12,
-                    "endOffset": 46841
+                    "endOffset": 46836
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5412,10 +5412,10 @@
                 "to": {
                     "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 46846,
+                    "startOffset": 46841,
                     "endLine": 546,
                     "endColumn": 12,
-                    "endOffset": 46927
+                    "endOffset": 46922
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5433,10 +5433,10 @@
                 "to": {
                     "startLine": 547,
                     "startColumn": 4,
-                    "startOffset": 46932,
+                    "startOffset": 46927,
                     "endLine": 551,
                     "endColumn": 12,
-                    "endOffset": 47275
+                    "endOffset": 47270
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5454,9 +5454,9 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 47280,
+                    "startOffset": 47275,
                     "endColumn": 87,
-                    "endOffset": 47363
+                    "endOffset": 47358
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5473,10 +5473,10 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 47368,
+                    "startOffset": 47363,
                     "endLine": 556,
                     "endColumn": 12,
-                    "endOffset": 47593
+                    "endOffset": 47588
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5494,10 +5494,10 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 47598,
+                    "startOffset": 47593,
                     "endLine": 562,
                     "endColumn": 12,
-                    "endOffset": 48011
+                    "endOffset": 48006
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5515,10 +5515,10 @@
                 "to": {
                     "startLine": 563,
                     "startColumn": 4,
-                    "startOffset": 48016,
+                    "startOffset": 48011,
                     "endLine": 566,
                     "endColumn": 12,
-                    "endOffset": 48244
+                    "endOffset": 48239
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5536,9 +5536,9 @@
                 "to": {
                     "startLine": 567,
                     "startColumn": 4,
-                    "startOffset": 48249,
+                    "startOffset": 48244,
                     "endColumn": 81,
-                    "endOffset": 48326
+                    "endOffset": 48321
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5555,10 +5555,10 @@
                 "to": {
                     "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 48331,
+                    "startOffset": 48326,
                     "endLine": 569,
                     "endColumn": 12,
-                    "endOffset": 48424
+                    "endOffset": 48419
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5576,10 +5576,10 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 48429,
+                    "startOffset": 48424,
                     "endLine": 580,
                     "endColumn": 12,
-                    "endOffset": 49041
+                    "endOffset": 49036
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5597,9 +5597,9 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 49046,
+                    "startOffset": 49041,
                     "endColumn": 99,
-                    "endOffset": 49141
+                    "endOffset": 49136
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5616,10 +5616,10 @@
                 "to": {
                     "startLine": 582,
                     "startColumn": 4,
-                    "startOffset": 49146,
+                    "startOffset": 49141,
                     "endLine": 585,
                     "endColumn": 12,
-                    "endOffset": 49377
+                    "endOffset": 49372
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5637,10 +5637,10 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 49382,
+                    "startOffset": 49377,
                     "endLine": 591,
                     "endColumn": 12,
-                    "endOffset": 49801
+                    "endOffset": 49796
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5658,10 +5658,10 @@
                 "to": {
                     "startLine": 592,
                     "startColumn": 4,
-                    "startOffset": 49806,
+                    "startOffset": 49801,
                     "endLine": 595,
                     "endColumn": 12,
-                    "endOffset": 50040
+                    "endOffset": 50035
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5679,9 +5679,9 @@
                 "to": {
                     "startLine": 596,
                     "startColumn": 4,
-                    "startOffset": 50045,
+                    "startOffset": 50040,
                     "endColumn": 93,
-                    "endOffset": 50134
+                    "endOffset": 50129
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5698,9 +5698,9 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 50139,
+                    "startOffset": 50134,
                     "endColumn": 88,
-                    "endOffset": 50223
+                    "endOffset": 50218
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5717,10 +5717,10 @@
                 "to": {
                     "startLine": 598,
                     "startColumn": 4,
-                    "startOffset": 50228,
+                    "startOffset": 50223,
                     "endLine": 601,
                     "endColumn": 12,
-                    "endOffset": 50460
+                    "endOffset": 50455
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5738,10 +5738,10 @@
                 "to": {
                     "startLine": 602,
                     "startColumn": 4,
-                    "startOffset": 50465,
+                    "startOffset": 50460,
                     "endLine": 628,
                     "endColumn": 12,
-                    "endOffset": 52512
+                    "endOffset": 52507
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5759,10 +5759,10 @@
                 "to": {
                     "startLine": 629,
                     "startColumn": 4,
-                    "startOffset": 52517,
+                    "startOffset": 52512,
                     "endLine": 632,
                     "endColumn": 12,
-                    "endOffset": 52754
+                    "endOffset": 52749
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5780,9 +5780,9 @@
                 "to": {
                     "startLine": 633,
                     "startColumn": 4,
-                    "startOffset": 52759,
+                    "startOffset": 52754,
                     "endColumn": 101,
-                    "endOffset": 52856
+                    "endOffset": 52851
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5799,10 +5799,10 @@
                 "to": {
                     "startLine": 634,
                     "startColumn": 4,
-                    "startOffset": 52861,
+                    "startOffset": 52856,
                     "endLine": 637,
                     "endColumn": 12,
-                    "endOffset": 53093
+                    "endOffset": 53088
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5820,10 +5820,10 @@
                 "to": {
                     "startLine": 638,
                     "startColumn": 4,
-                    "startOffset": 53098,
+                    "startOffset": 53093,
                     "endLine": 665,
                     "endColumn": 12,
-                    "endOffset": 55277
+                    "endOffset": 55272
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5841,10 +5841,10 @@
                 "to": {
                     "startLine": 666,
                     "startColumn": 4,
-                    "startOffset": 55282,
+                    "startOffset": 55277,
                     "endLine": 824,
                     "endColumn": 12,
-                    "endOffset": 65438
+                    "endOffset": 65433
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5862,10 +5862,10 @@
                 "to": {
                     "startLine": 825,
                     "startColumn": 4,
-                    "startOffset": 65443,
+                    "startOffset": 65438,
                     "endLine": 846,
                     "endColumn": 12,
-                    "endOffset": 66689
+                    "endOffset": 66684
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5883,10 +5883,10 @@
                 "to": {
                     "startLine": 847,
                     "startColumn": 4,
-                    "startOffset": 66694,
+                    "startOffset": 66689,
                     "endLine": 1005,
                     "endColumn": 12,
-                    "endOffset": 76949
+                    "endOffset": 76944
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5904,10 +5904,10 @@
                 "to": {
                     "startLine": 1006,
                     "startColumn": 4,
-                    "startOffset": 76954,
+                    "startOffset": 76949,
                     "endLine": 1027,
                     "endColumn": 12,
-                    "endOffset": 78212
+                    "endOffset": 78207
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5925,10 +5925,10 @@
                 "to": {
                     "startLine": 1028,
                     "startColumn": 4,
-                    "startOffset": 78217,
+                    "startOffset": 78212,
                     "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 79477
+                    "endOffset": 79472
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5946,10 +5946,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 79482,
+                    "startOffset": 79477,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 80013
+                    "endOffset": 80008
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5967,10 +5967,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 80018,
+                    "startOffset": 80013,
                     "endLine": 1061,
                     "endColumn": 12,
-                    "endOffset": 80343
+                    "endOffset": 80338
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -5988,10 +5988,10 @@
                 "to": {
                     "startLine": 1062,
                     "startColumn": 4,
-                    "startOffset": 80348,
+                    "startOffset": 80343,
                     "endLine": 1083,
                     "endColumn": 12,
-                    "endOffset": 81608
+                    "endOffset": 81603
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6009,10 +6009,10 @@
                 "to": {
                     "startLine": 1084,
                     "startColumn": 4,
-                    "startOffset": 81613,
+                    "startOffset": 81608,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 81864
+                    "endOffset": 81859
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6030,10 +6030,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 81869,
+                    "startOffset": 81864,
                     "endLine": 1093,
                     "endColumn": 12,
-                    "endOffset": 82100
+                    "endOffset": 82095
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6051,10 +6051,10 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 82105,
+                    "startOffset": 82100,
                     "endLine": 1103,
                     "endColumn": 12,
-                    "endOffset": 82647
+                    "endOffset": 82642
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6072,10 +6072,10 @@
                 "to": {
                     "startLine": 1104,
                     "startColumn": 4,
-                    "startOffset": 82652,
+                    "startOffset": 82647,
                     "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 83141
+                    "endOffset": 83136
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6093,10 +6093,10 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 83146,
+                    "startOffset": 83141,
                     "endLine": 1121,
                     "endColumn": 12,
-                    "endOffset": 83746
+                    "endOffset": 83741
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6114,10 +6114,10 @@
                 "to": {
                     "startLine": 1122,
                     "startColumn": 4,
-                    "startOffset": 83751,
+                    "startOffset": 83746,
                     "endLine": 1125,
                     "endColumn": 12,
-                    "endOffset": 83944
+                    "endOffset": 83939
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6135,10 +6135,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 83949,
+                    "startOffset": 83944,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 84524
+                    "endOffset": 84519
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6156,10 +6156,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 84529,
+                    "startOffset": 84524,
                     "endLine": 1140,
                     "endColumn": 12,
-                    "endOffset": 85088
+                    "endOffset": 85083
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6177,10 +6177,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 85093,
+                    "startOffset": 85088,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 85463
+                    "endOffset": 85458
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6198,9 +6198,9 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 85468,
+                    "startOffset": 85463,
                     "endColumn": 117,
-                    "endOffset": 85581
+                    "endOffset": 85576
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6217,10 +6217,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 85586,
+                    "startOffset": 85581,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 86119
+                    "endOffset": 86114
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6238,10 +6238,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 86124,
+                    "startOffset": 86119,
                     "endLine": 1160,
                     "endColumn": 12,
-                    "endOffset": 86276
+                    "endOffset": 86271
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6259,10 +6259,10 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 86281,
+                    "startOffset": 86276,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 86450
+                    "endOffset": 86445
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6280,10 +6280,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 86455,
+                    "startOffset": 86450,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 86770
+                    "endOffset": 86765
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6301,10 +6301,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 86775,
+                    "startOffset": 86770,
                     "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 87026
+                    "endOffset": 87021
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6322,10 +6322,10 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 87031,
+                    "startOffset": 87026,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 87196
+                    "endOffset": 87191
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6343,10 +6343,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 87201,
+                    "startOffset": 87196,
                     "endLine": 1179,
                     "endColumn": 12,
-                    "endOffset": 87337
+                    "endOffset": 87332
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6364,9 +6364,9 @@
                 "to": {
                     "startLine": 1180,
                     "startColumn": 4,
-                    "startOffset": 87342,
+                    "startOffset": 87337,
                     "endColumn": 63,
-                    "endOffset": 87401
+                    "endOffset": 87396
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6383,10 +6383,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 87406,
+                    "startOffset": 87401,
                     "endLine": 1184,
                     "endColumn": 12,
-                    "endOffset": 87683
+                    "endOffset": 87678
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6404,10 +6404,10 @@
                 "to": {
                     "startLine": 1185,
                     "startColumn": 4,
-                    "startOffset": 87688,
+                    "startOffset": 87683,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 87969
+                    "endOffset": 87964
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6425,10 +6425,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 87974,
+                    "startOffset": 87969,
                     "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 88645
+                    "endOffset": 88640
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6446,10 +6446,10 @@
                 "to": {
                     "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 88650,
+                    "startOffset": 88645,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 88909
+                    "endOffset": 88904
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6467,10 +6467,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 88914,
+                    "startOffset": 88909,
                     "endLine": 1210,
                     "endColumn": 12,
-                    "endOffset": 89247
+                    "endOffset": 89242
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6488,10 +6488,10 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 89252,
+                    "startOffset": 89247,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 89600
+                    "endOffset": 89595
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6509,9 +6509,9 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 89605,
+                    "startOffset": 89600,
                     "endColumn": 93,
-                    "endOffset": 89694
+                    "endOffset": 89689
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6528,10 +6528,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 89699,
+                    "startOffset": 89694,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 89880
+                    "endOffset": 89875
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6549,10 +6549,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 89885,
+                    "startOffset": 89880,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 90186
+                    "endOffset": 90181
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6570,10 +6570,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 90191,
+                    "startOffset": 90186,
                     "endLine": 1229,
                     "endColumn": 12,
-                    "endOffset": 90448
+                    "endOffset": 90443
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6591,10 +6591,10 @@
                 "to": {
                     "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 90453,
+                    "startOffset": 90448,
                     "endLine": 1231,
                     "endColumn": 12,
-                    "endOffset": 90573
+                    "endOffset": 90568
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6612,10 +6612,10 @@
                 "to": {
                     "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 90578,
+                    "startOffset": 90573,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 90700
+                    "endOffset": 90695
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6633,10 +6633,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 90705,
+                    "startOffset": 90700,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 90939
+                    "endOffset": 90934
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6654,10 +6654,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 90944,
+                    "startOffset": 90939,
                     "endLine": 1239,
                     "endColumn": 12,
-                    "endOffset": 91150
+                    "endOffset": 91145
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6675,10 +6675,10 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 91155,
+                    "startOffset": 91150,
                     "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 91269
+                    "endOffset": 91264
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6696,10 +6696,10 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 91274,
+                    "startOffset": 91269,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 91462
+                    "endOffset": 91457
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6717,10 +6717,10 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 91467,
+                    "startOffset": 91462,
                     "endLine": 1248,
                     "endColumn": 12,
-                    "endOffset": 91639
+                    "endOffset": 91634
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6738,10 +6738,10 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 91644,
+                    "startOffset": 91639,
                     "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 92094
+                    "endOffset": 92089
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6759,10 +6759,10 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 92099,
+                    "startOffset": 92094,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 92275
+                    "endOffset": 92270
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6780,10 +6780,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 92280,
+                    "startOffset": 92275,
                     "endLine": 1261,
                     "endColumn": 12,
-                    "endOffset": 92397
+                    "endOffset": 92392
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6801,10 +6801,10 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 92402,
+                    "startOffset": 92397,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 92656
+                    "endOffset": 92651
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6822,10 +6822,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 92661,
+                    "startOffset": 92656,
                     "endLine": 1267,
                     "endColumn": 12,
-                    "endOffset": 92769
+                    "endOffset": 92764
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6843,10 +6843,10 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 92774,
+                    "startOffset": 92769,
                     "endLine": 1271,
                     "endColumn": 12,
-                    "endOffset": 92956
+                    "endOffset": 92951
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6864,10 +6864,10 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 92961,
+                    "startOffset": 92956,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 93058
+                    "endOffset": 93053
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6885,10 +6885,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 93063,
+                    "startOffset": 93058,
                     "endLine": 1279,
                     "endColumn": 12,
-                    "endOffset": 93502
+                    "endOffset": 93497
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6906,10 +6906,10 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 93507,
+                    "startOffset": 93502,
                     "endLine": 1281,
                     "endColumn": 12,
-                    "endOffset": 93626
+                    "endOffset": 93621
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6927,10 +6927,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 93631,
+                    "startOffset": 93626,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 93901
+                    "endOffset": 93896
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6948,10 +6948,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 93906,
+                    "startOffset": 93901,
                     "endLine": 1293,
                     "endColumn": 12,
-                    "endOffset": 94409
+                    "endOffset": 94404
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6969,10 +6969,10 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 94414,
+                    "startOffset": 94409,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 94905
+                    "endOffset": 94900
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -6990,10 +6990,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 94910,
+                    "startOffset": 94905,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 95782
+                    "endOffset": 95777
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7011,10 +7011,10 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 95787,
+                    "startOffset": 95782,
                     "endLine": 1319,
                     "endColumn": 12,
-                    "endOffset": 96076
+                    "endOffset": 96071
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7032,10 +7032,10 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 96081,
+                    "startOffset": 96076,
                     "endLine": 1328,
                     "endColumn": 12,
-                    "endOffset": 96646
+                    "endOffset": 96641
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7053,10 +7053,10 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 96651,
+                    "startOffset": 96646,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 96795
+                    "endOffset": 96790
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7074,10 +7074,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 96800,
+                    "startOffset": 96795,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 97527
+                    "endOffset": 97522
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7095,10 +7095,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 97532,
+                    "startOffset": 97527,
                     "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 97699
+                    "endOffset": 97694
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7116,10 +7116,10 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 97704,
+                    "startOffset": 97699,
                     "endLine": 1350,
                     "endColumn": 12,
-                    "endOffset": 98035
+                    "endOffset": 98030
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7137,10 +7137,10 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 98040,
+                    "startOffset": 98035,
                     "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 99093
+                    "endOffset": 99088
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7158,10 +7158,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 99098,
+                    "startOffset": 99093,
                     "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 99371
+                    "endOffset": 99366
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7179,10 +7179,10 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 99376,
+                    "startOffset": 99371,
                     "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 102557
+                    "endOffset": 102552
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7200,10 +7200,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 102562,
+                    "startOffset": 102557,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 105886
+                    "endOffset": 105881
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7221,9 +7221,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 105891,
+                    "startOffset": 105886,
                     "endColumn": 61,
-                    "endOffset": 105948
+                    "endOffset": 105943
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7240,10 +7240,10 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 105953,
+                    "startOffset": 105948,
                     "endLine": 1465,
                     "endColumn": 12,
-                    "endOffset": 106578
+                    "endOffset": 106573
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7261,10 +7261,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 106583,
+                    "startOffset": 106578,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 107192
+                    "endOffset": 107187
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7282,9 +7282,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 107197,
+                    "startOffset": 107192,
                     "endColumn": 85,
-                    "endOffset": 107278
+                    "endOffset": 107273
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7301,10 +7301,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 107283,
+                    "startOffset": 107278,
                     "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 107391
+                    "endOffset": 107386
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7322,10 +7322,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 107396,
+                    "startOffset": 107391,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 107620
+                    "endOffset": 107615
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7343,10 +7343,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 107625,
+                    "startOffset": 107620,
                     "endLine": 1484,
                     "endColumn": 12,
-                    "endOffset": 107780
+                    "endOffset": 107775
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7364,10 +7364,10 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 107785,
+                    "startOffset": 107780,
                     "endLine": 1487,
                     "endColumn": 12,
-                    "endOffset": 107932
+                    "endOffset": 107927
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7385,10 +7385,10 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 107937,
+                    "startOffset": 107932,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 108103
+                    "endOffset": 108098
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7406,10 +7406,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 108108,
+                    "startOffset": 108103,
                     "endLine": 1493,
                     "endColumn": 12,
-                    "endOffset": 108270
+                    "endOffset": 108265
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7427,10 +7427,10 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 108275,
+                    "startOffset": 108270,
                     "endLine": 1497,
                     "endColumn": 12,
-                    "endOffset": 108513
+                    "endOffset": 108508
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7448,10 +7448,10 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 108518,
+                    "startOffset": 108513,
                     "endLine": 1500,
                     "endColumn": 12,
-                    "endOffset": 108683
+                    "endOffset": 108678
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7469,10 +7469,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 108688,
+                    "startOffset": 108683,
                     "endLine": 1503,
                     "endColumn": 12,
-                    "endOffset": 108856
+                    "endOffset": 108851
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7490,10 +7490,10 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 108861,
+                    "startOffset": 108856,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 109027
+                    "endOffset": 109022
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7511,10 +7511,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 109032,
+                    "startOffset": 109027,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 109301
+                    "endOffset": 109296
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7532,10 +7532,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 109306,
+                    "startOffset": 109301,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 109500
+                    "endOffset": 109495
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7553,10 +7553,10 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 109505,
+                    "startOffset": 109500,
                     "endLine": 1517,
                     "endColumn": 12,
-                    "endOffset": 109705
+                    "endOffset": 109700
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7574,10 +7574,10 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 109710,
+                    "startOffset": 109705,
                     "endLine": 1521,
                     "endColumn": 12,
-                    "endOffset": 110035
+                    "endOffset": 110030
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7595,9 +7595,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 110040,
+                    "startOffset": 110035,
                     "endColumn": 83,
-                    "endOffset": 110119
+                    "endOffset": 110114
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7614,9 +7614,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 110124,
+                    "startOffset": 110119,
                     "endColumn": 95,
-                    "endOffset": 110215
+                    "endOffset": 110210
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7633,9 +7633,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 110220,
+                    "startOffset": 110215,
                     "endColumn": 95,
-                    "endOffset": 110311
+                    "endOffset": 110306
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7652,9 +7652,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 110316,
+                    "startOffset": 110311,
                     "endColumn": 97,
-                    "endOffset": 110409
+                    "endOffset": 110404
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7671,9 +7671,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 110414,
+                    "startOffset": 110409,
                     "endColumn": 99,
-                    "endOffset": 110509
+                    "endOffset": 110504
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7690,9 +7690,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 110514,
+                    "startOffset": 110509,
                     "endColumn": 101,
-                    "endOffset": 110611
+                    "endOffset": 110606
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7709,9 +7709,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 110616,
+                    "startOffset": 110611,
                     "endColumn": 101,
-                    "endOffset": 110713
+                    "endOffset": 110708
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7728,9 +7728,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 110718,
+                    "startOffset": 110713,
                     "endColumn": 101,
-                    "endOffset": 110815
+                    "endOffset": 110810
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7747,9 +7747,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 110820,
+                    "startOffset": 110815,
                     "endColumn": 101,
-                    "endOffset": 110917
+                    "endOffset": 110912
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7766,9 +7766,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 110922,
+                    "startOffset": 110917,
                     "endColumn": 101,
-                    "endOffset": 111019
+                    "endOffset": 111014
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7785,9 +7785,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 111024,
+                    "startOffset": 111019,
                     "endColumn": 99,
-                    "endOffset": 111119
+                    "endOffset": 111114
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7804,9 +7804,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 111124,
+                    "startOffset": 111119,
                     "endColumn": 95,
-                    "endOffset": 111215
+                    "endOffset": 111210
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7823,9 +7823,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 111220,
+                    "startOffset": 111215,
                     "endColumn": 111,
-                    "endOffset": 111327
+                    "endOffset": 111322
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7842,9 +7842,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 111332,
+                    "startOffset": 111327,
                     "endColumn": 128,
-                    "endOffset": 111456
+                    "endOffset": 111451
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7861,9 +7861,9 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 111461,
+                    "startOffset": 111456,
                     "endColumn": 122,
-                    "endOffset": 111579
+                    "endOffset": 111574
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7880,9 +7880,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 111584,
+                    "startOffset": 111579,
                     "endColumn": 130,
-                    "endOffset": 111710
+                    "endOffset": 111705
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7899,9 +7899,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 111715,
+                    "startOffset": 111710,
                     "endColumn": 130,
-                    "endOffset": 111841
+                    "endOffset": 111836
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7918,9 +7918,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 111846,
+                    "startOffset": 111841,
                     "endColumn": 97,
-                    "endOffset": 111939
+                    "endOffset": 111934
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7937,9 +7937,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 111944,
+                    "startOffset": 111939,
                     "endColumn": 113,
-                    "endOffset": 112053
+                    "endOffset": 112048
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7956,9 +7956,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 112058,
+                    "startOffset": 112053,
                     "endColumn": 93,
-                    "endOffset": 112147
+                    "endOffset": 112142
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7975,10 +7975,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 112152,
+                    "startOffset": 112147,
                     "endLine": 1545,
                     "endColumn": 12,
-                    "endOffset": 112346
+                    "endOffset": 112341
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -7996,10 +7996,10 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 112351,
+                    "startOffset": 112346,
                     "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 112550
+                    "endOffset": 112545
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8017,9 +8017,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 112555,
+                    "startOffset": 112550,
                     "endColumn": 68,
-                    "endOffset": 112619
+                    "endOffset": 112614
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8036,9 +8036,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 112624,
+                    "startOffset": 112619,
                     "endColumn": 115,
-                    "endOffset": 112735
+                    "endOffset": 112730
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8055,9 +8055,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 112740,
+                    "startOffset": 112735,
                     "endColumn": 127,
-                    "endOffset": 112863
+                    "endOffset": 112858
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8074,9 +8074,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 112868,
+                    "startOffset": 112863,
                     "endColumn": 63,
-                    "endOffset": 112927
+                    "endOffset": 112922
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8093,10 +8093,10 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 112932,
+                    "startOffset": 112927,
                     "endLine": 1557,
                     "endColumn": 12,
-                    "endOffset": 113131
+                    "endOffset": 113126
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8114,9 +8114,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 113136,
+                    "startOffset": 113131,
                     "endColumn": 68,
-                    "endOffset": 113200
+                    "endOffset": 113195
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8133,10 +8133,10 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 113205,
+                    "startOffset": 113200,
                     "endLine": 1562,
                     "endColumn": 12,
-                    "endOffset": 113403
+                    "endOffset": 113398
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8154,9 +8154,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 113408,
+                    "startOffset": 113403,
                     "endColumn": 69,
-                    "endOffset": 113473
+                    "endOffset": 113468
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8173,10 +8173,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 113478,
+                    "startOffset": 113473,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 113613
+                    "endOffset": 113608
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8194,10 +8194,10 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 113618,
+                    "startOffset": 113613,
                     "endLine": 1567,
                     "endColumn": 12,
-                    "endOffset": 113747
+                    "endOffset": 113742
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8215,9 +8215,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 113752,
+                    "startOffset": 113747,
                     "endColumn": 95,
-                    "endOffset": 113843
+                    "endOffset": 113838
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8234,9 +8234,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 113848,
+                    "startOffset": 113843,
                     "endColumn": 111,
-                    "endOffset": 113955
+                    "endOffset": 113950
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8253,9 +8253,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 113960,
+                    "startOffset": 113955,
                     "endColumn": 99,
-                    "endOffset": 114055
+                    "endOffset": 114050
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8272,9 +8272,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 114060,
+                    "startOffset": 114055,
                     "endColumn": 115,
-                    "endOffset": 114171
+                    "endOffset": 114166
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8291,9 +8291,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 114176,
+                    "startOffset": 114171,
                     "endColumn": 95,
-                    "endOffset": 114267
+                    "endOffset": 114262
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8310,9 +8310,9 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 114272,
+                    "startOffset": 114267,
                     "endColumn": 111,
-                    "endOffset": 114379
+                    "endOffset": 114374
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8329,10 +8329,10 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 114384,
+                    "startOffset": 114379,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 114519
+                    "endOffset": 114514
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8350,9 +8350,9 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 114524,
+                    "startOffset": 114519,
                     "endColumn": 135,
-                    "endOffset": 114655
+                    "endOffset": 114650
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8369,10 +8369,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 114660,
+                    "startOffset": 114655,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 114819
+                    "endOffset": 114814
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8390,9 +8390,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 114824,
+                    "startOffset": 114819,
                     "endColumn": 129,
-                    "endOffset": 114949
+                    "endOffset": 114944
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8409,10 +8409,10 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 114954,
+                    "startOffset": 114949,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 115107
+                    "endOffset": 115102
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8430,10 +8430,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 115112,
+                    "startOffset": 115107,
                     "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 115257
+                    "endOffset": 115252
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8451,9 +8451,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 115262,
+                    "startOffset": 115257,
                     "endColumn": 140,
-                    "endOffset": 115398
+                    "endOffset": 115393
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8470,10 +8470,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 115403,
+                    "startOffset": 115398,
                     "endLine": 1586,
                     "endColumn": 12,
-                    "endOffset": 115542
+                    "endOffset": 115537
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8491,9 +8491,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 115547,
+                    "startOffset": 115542,
                     "endColumn": 134,
-                    "endOffset": 115677
+                    "endOffset": 115672
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8510,9 +8510,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 115682,
+                    "startOffset": 115677,
                     "endColumn": 111,
-                    "endOffset": 115789
+                    "endOffset": 115784
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8529,9 +8529,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 115794,
+                    "startOffset": 115789,
                     "endColumn": 127,
-                    "endOffset": 115917
+                    "endOffset": 115912
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8548,10 +8548,10 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 115922,
+                    "startOffset": 115917,
                     "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 116053
+                    "endOffset": 116048
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8569,9 +8569,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 116058,
+                    "startOffset": 116053,
                     "endColumn": 131,
-                    "endOffset": 116185
+                    "endOffset": 116180
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8588,9 +8588,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 116190,
+                    "startOffset": 116185,
                     "endColumn": 129,
-                    "endOffset": 116315
+                    "endOffset": 116310
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8607,9 +8607,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 116320,
+                    "startOffset": 116315,
                     "endColumn": 129,
-                    "endOffset": 116445
+                    "endOffset": 116440
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8626,9 +8626,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 116450,
+                    "startOffset": 116445,
                     "endColumn": 111,
-                    "endOffset": 116557
+                    "endOffset": 116552
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8645,9 +8645,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 116562,
+                    "startOffset": 116557,
                     "endColumn": 139,
-                    "endOffset": 116697
+                    "endOffset": 116692
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8664,9 +8664,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 116702,
+                    "startOffset": 116697,
                     "endColumn": 67,
-                    "endOffset": 116765
+                    "endOffset": 116760
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8683,9 +8683,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 116770,
+                    "startOffset": 116765,
                     "endColumn": 72,
-                    "endOffset": 116838
+                    "endOffset": 116833
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8702,9 +8702,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 116843,
+                    "startOffset": 116838,
                     "endColumn": 73,
-                    "endOffset": 116912
+                    "endOffset": 116907
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8721,9 +8721,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 116917,
+                    "startOffset": 116912,
                     "endColumn": 72,
-                    "endOffset": 116985
+                    "endOffset": 116980
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8740,9 +8740,9 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 116990,
+                    "startOffset": 116985,
                     "endColumn": 73,
-                    "endOffset": 117059
+                    "endOffset": 117054
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8759,10 +8759,10 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 117064,
+                    "startOffset": 117059,
                     "endLine": 1603,
                     "endColumn": 12,
-                    "endOffset": 117205
+                    "endOffset": 117200
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8780,10 +8780,10 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 117210,
+                    "startOffset": 117205,
                     "endLine": 1605,
                     "endColumn": 12,
-                    "endOffset": 117349
+                    "endOffset": 117344
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8801,10 +8801,10 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 117354,
+                    "startOffset": 117349,
                     "endLine": 1607,
                     "endColumn": 12,
-                    "endOffset": 117487
+                    "endOffset": 117482
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8822,9 +8822,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 117492,
+                    "startOffset": 117487,
                     "endColumn": 65,
-                    "endOffset": 117553
+                    "endOffset": 117548
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8841,9 +8841,9 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 117558,
+                    "startOffset": 117553,
                     "endColumn": 89,
-                    "endOffset": 117643
+                    "endOffset": 117638
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8860,9 +8860,9 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 117648,
+                    "startOffset": 117643,
                     "endColumn": 75,
-                    "endOffset": 117719
+                    "endOffset": 117714
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8879,9 +8879,9 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 117724,
+                    "startOffset": 117719,
                     "endColumn": 103,
-                    "endOffset": 117823
+                    "endOffset": 117818
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8898,9 +8898,9 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 117828,
+                    "startOffset": 117823,
                     "endColumn": 89,
-                    "endOffset": 117913
+                    "endOffset": 117908
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8917,9 +8917,9 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 117918,
+                    "startOffset": 117913,
                     "endColumn": 101,
-                    "endOffset": 118015
+                    "endOffset": 118010
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8936,9 +8936,9 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 118020,
+                    "startOffset": 118015,
                     "endColumn": 107,
-                    "endOffset": 118123
+                    "endOffset": 118118
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8955,9 +8955,9 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 118128,
+                    "startOffset": 118123,
                     "endColumn": 107,
-                    "endOffset": 118231
+                    "endOffset": 118226
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8974,9 +8974,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 118236,
+                    "startOffset": 118231,
                     "endColumn": 99,
-                    "endOffset": 118331
+                    "endOffset": 118326
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -8993,9 +8993,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 118336,
+                    "startOffset": 118331,
                     "endColumn": 79,
-                    "endOffset": 118411
+                    "endOffset": 118406
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9012,9 +9012,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 118416,
+                    "startOffset": 118411,
                     "endColumn": 91,
-                    "endOffset": 118503
+                    "endOffset": 118498
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9031,9 +9031,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 118508,
+                    "startOffset": 118503,
                     "endColumn": 97,
-                    "endOffset": 118601
+                    "endOffset": 118596
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9050,10 +9050,10 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 118606,
+                    "startOffset": 118601,
                     "endLine": 1621,
                     "endColumn": 12,
-                    "endOffset": 118711
+                    "endOffset": 118706
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9071,9 +9071,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 118716,
+                    "startOffset": 118711,
                     "endColumn": 77,
-                    "endOffset": 118789
+                    "endOffset": 118784
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9090,9 +9090,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 118794,
+                    "startOffset": 118789,
                     "endColumn": 105,
-                    "endOffset": 118895
+                    "endOffset": 118890
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9109,9 +9109,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 118900,
+                    "startOffset": 118895,
                     "endColumn": 91,
-                    "endOffset": 118987
+                    "endOffset": 118982
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9128,9 +9128,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 118992,
+                    "startOffset": 118987,
                     "endColumn": 103,
-                    "endOffset": 119091
+                    "endOffset": 119086
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9147,9 +9147,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 119096,
+                    "startOffset": 119091,
                     "endColumn": 109,
-                    "endOffset": 119201
+                    "endOffset": 119196
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9166,10 +9166,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 119206,
+                    "startOffset": 119201,
                     "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 119323
+                    "endOffset": 119318
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9187,10 +9187,10 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 119328,
+                    "startOffset": 119323,
                     "endLine": 1632,
                     "endColumn": 12,
-                    "endOffset": 119486
+                    "endOffset": 119481
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9208,10 +9208,10 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 119491,
+                    "startOffset": 119486,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 119643
+                    "endOffset": 119638
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9229,9 +9229,9 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 119648,
+                    "startOffset": 119643,
                     "endColumn": 79,
-                    "endOffset": 119723
+                    "endOffset": 119718
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9248,9 +9248,9 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 119728,
+                    "startOffset": 119723,
                     "endColumn": 99,
-                    "endOffset": 119823
+                    "endOffset": 119818
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9267,9 +9267,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 119828,
+                    "startOffset": 119823,
                     "endColumn": 89,
-                    "endOffset": 119913
+                    "endOffset": 119908
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9286,9 +9286,9 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 119918,
+                    "startOffset": 119913,
                     "endColumn": 109,
-                    "endOffset": 120023
+                    "endOffset": 120018
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9305,9 +9305,9 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 120028,
+                    "startOffset": 120023,
                     "endColumn": 93,
-                    "endOffset": 120117
+                    "endOffset": 120112
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9324,9 +9324,9 @@
                 "to": {
                     "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 120122,
+                    "startOffset": 120117,
                     "endColumn": 105,
-                    "endOffset": 120223
+                    "endOffset": 120218
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9343,9 +9343,9 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 120228,
+                    "startOffset": 120223,
                     "endColumn": 91,
-                    "endOffset": 120315
+                    "endOffset": 120310
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9362,10 +9362,10 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 120320,
+                    "startOffset": 120315,
                     "endLine": 1645,
                     "endColumn": 12,
-                    "endOffset": 120415
+                    "endOffset": 120410
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9383,10 +9383,10 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 120420,
+                    "startOffset": 120415,
                     "endLine": 1647,
                     "endColumn": 12,
-                    "endOffset": 120527
+                    "endOffset": 120522
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9404,10 +9404,10 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 120532,
+                    "startOffset": 120527,
                     "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 120641
+                    "endOffset": 120636
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9425,10 +9425,10 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 120646,
+                    "startOffset": 120641,
                     "endLine": 1651,
                     "endColumn": 12,
-                    "endOffset": 120757
+                    "endOffset": 120752
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9446,10 +9446,10 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 120762,
+                    "startOffset": 120757,
                     "endLine": 1653,
                     "endColumn": 12,
-                    "endOffset": 120873
+                    "endOffset": 120868
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9467,9 +9467,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 120878,
+                    "startOffset": 120873,
                     "endColumn": 93,
-                    "endOffset": 120967
+                    "endOffset": 120962
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9486,9 +9486,9 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 120972,
+                    "startOffset": 120967,
                     "endColumn": 113,
-                    "endOffset": 121081
+                    "endOffset": 121076
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9505,9 +9505,9 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 121086,
+                    "startOffset": 121081,
                     "endColumn": 111,
-                    "endOffset": 121193
+                    "endOffset": 121188
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9524,10 +9524,10 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 121198,
+                    "startOffset": 121193,
                     "endLine": 1658,
                     "endColumn": 12,
-                    "endOffset": 121295
+                    "endOffset": 121290
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9545,10 +9545,10 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 121300,
+                    "startOffset": 121295,
                     "endLine": 1660,
                     "endColumn": 12,
-                    "endOffset": 121415
+                    "endOffset": 121410
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9566,10 +9566,10 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 121420,
+                    "startOffset": 121415,
                     "endLine": 1662,
                     "endColumn": 12,
-                    "endOffset": 121537
+                    "endOffset": 121532
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9587,9 +9587,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 121542,
+                    "startOffset": 121537,
                     "endColumn": 81,
-                    "endOffset": 121619
+                    "endOffset": 121614
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9606,9 +9606,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 121624,
+                    "startOffset": 121619,
                     "endColumn": 103,
-                    "endOffset": 121723
+                    "endOffset": 121718
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9625,9 +9625,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 121728,
+                    "startOffset": 121723,
                     "endColumn": 119,
-                    "endOffset": 121843
+                    "endOffset": 121838
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9644,9 +9644,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 121848,
+                    "startOffset": 121843,
                     "endColumn": 125,
-                    "endOffset": 121969
+                    "endOffset": 121964
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9663,9 +9663,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 121974,
+                    "startOffset": 121969,
                     "endColumn": 97,
-                    "endOffset": 122067
+                    "endOffset": 122062
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9682,9 +9682,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 122072,
+                    "startOffset": 122067,
                     "endColumn": 93,
-                    "endOffset": 122161
+                    "endOffset": 122156
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9701,9 +9701,9 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 122166,
+                    "startOffset": 122161,
                     "endColumn": 87,
-                    "endOffset": 122249
+                    "endOffset": 122244
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9720,9 +9720,9 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 122254,
+                    "startOffset": 122249,
                     "endColumn": 111,
-                    "endOffset": 122361
+                    "endOffset": 122356
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9739,9 +9739,9 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 122366,
+                    "startOffset": 122361,
                     "endColumn": 115,
-                    "endOffset": 122477
+                    "endOffset": 122472
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9758,9 +9758,9 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 122482,
+                    "startOffset": 122477,
                     "endColumn": 121,
-                    "endOffset": 122599
+                    "endOffset": 122594
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9777,9 +9777,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 122604,
+                    "startOffset": 122599,
                     "endColumn": 111,
-                    "endOffset": 122711
+                    "endOffset": 122706
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9796,10 +9796,10 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 122716,
+                    "startOffset": 122711,
                     "endLine": 1676,
                     "endColumn": 12,
-                    "endOffset": 122886
+                    "endOffset": 122881
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9817,9 +9817,9 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 122891,
+                    "startOffset": 122886,
                     "endColumn": 115,
-                    "endOffset": 123002
+                    "endOffset": 122997
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9836,9 +9836,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 123007,
+                    "startOffset": 123002,
                     "endColumn": 85,
-                    "endOffset": 123088
+                    "endOffset": 123083
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9855,9 +9855,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 123093,
+                    "startOffset": 123088,
                     "endColumn": 91,
-                    "endOffset": 123180
+                    "endOffset": 123175
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9874,10 +9874,10 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 123185,
+                    "startOffset": 123180,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 123292
+                    "endOffset": 123287
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9895,10 +9895,10 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 123297,
+                    "startOffset": 123292,
                     "endLine": 1683,
                     "endColumn": 12,
-                    "endOffset": 123416
+                    "endOffset": 123411
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9916,9 +9916,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 123421,
+                    "startOffset": 123416,
                     "endColumn": 66,
-                    "endOffset": 123483
+                    "endOffset": 123478
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9935,10 +9935,10 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 123488,
+                    "startOffset": 123483,
                     "endLine": 1686,
                     "endColumn": 12,
-                    "endOffset": 123609
+                    "endOffset": 123604
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9956,9 +9956,9 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 123614,
+                    "startOffset": 123609,
                     "endColumn": 67,
-                    "endOffset": 123677
+                    "endOffset": 123672
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9975,10 +9975,10 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 123682,
+                    "startOffset": 123677,
                     "endLine": 1689,
                     "endColumn": 12,
-                    "endOffset": 123805
+                    "endOffset": 123800
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -9996,10 +9996,10 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 123810,
+                    "startOffset": 123805,
                     "endLine": 1691,
                     "endColumn": 12,
-                    "endOffset": 123949
+                    "endOffset": 123944
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10017,10 +10017,10 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 123954,
+                    "startOffset": 123949,
                     "endLine": 1693,
                     "endColumn": 12,
-                    "endOffset": 124077
+                    "endOffset": 124072
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10038,9 +10038,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 124082,
+                    "startOffset": 124077,
                     "endColumn": 68,
-                    "endOffset": 124146
+                    "endOffset": 124141
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10057,9 +10057,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 124151,
+                    "startOffset": 124146,
                     "endColumn": 94,
-                    "endOffset": 124241
+                    "endOffset": 124236
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10076,9 +10076,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 124246,
+                    "startOffset": 124241,
                     "endColumn": 114,
-                    "endOffset": 124356
+                    "endOffset": 124351
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10095,9 +10095,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 124361,
+                    "startOffset": 124356,
                     "endColumn": 112,
-                    "endOffset": 124469
+                    "endOffset": 124464
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10114,9 +10114,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 124474,
+                    "startOffset": 124469,
                     "endColumn": 98,
-                    "endOffset": 124568
+                    "endOffset": 124563
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10133,9 +10133,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 124573,
+                    "startOffset": 124568,
                     "endColumn": 108,
-                    "endOffset": 124677
+                    "endOffset": 124672
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10152,9 +10152,9 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 124682,
+                    "startOffset": 124677,
                     "endColumn": 110,
-                    "endOffset": 124788
+                    "endOffset": 124783
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10171,9 +10171,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 124793,
+                    "startOffset": 124788,
                     "endColumn": 110,
-                    "endOffset": 124899
+                    "endOffset": 124894
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10190,9 +10190,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 124904,
+                    "startOffset": 124899,
                     "endColumn": 100,
-                    "endOffset": 125000
+                    "endOffset": 124995
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10209,9 +10209,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 125005,
+                    "startOffset": 125000,
                     "endColumn": 104,
-                    "endOffset": 125105
+                    "endOffset": 125100
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10228,9 +10228,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 125110,
+                    "startOffset": 125105,
                     "endColumn": 99,
-                    "endOffset": 125205
+                    "endOffset": 125200
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10247,10 +10247,10 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 125210,
+                    "startOffset": 125205,
                     "endLine": 1706,
                     "endColumn": 12,
-                    "endOffset": 125335
+                    "endOffset": 125330
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10268,9 +10268,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 125340,
+                    "startOffset": 125335,
                     "endColumn": 90,
-                    "endOffset": 125426
+                    "endOffset": 125421
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10287,9 +10287,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 125431,
+                    "startOffset": 125426,
                     "endColumn": 122,
-                    "endOffset": 125549
+                    "endOffset": 125544
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10306,9 +10306,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 125554,
+                    "startOffset": 125549,
                     "endColumn": 93,
-                    "endOffset": 125643
+                    "endOffset": 125638
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10325,10 +10325,10 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 125648,
+                    "startOffset": 125643,
                     "endLine": 1711,
                     "endColumn": 12,
-                    "endOffset": 125755
+                    "endOffset": 125750
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10346,9 +10346,9 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 125760,
+                    "startOffset": 125755,
                     "endColumn": 85,
-                    "endOffset": 125841
+                    "endOffset": 125836
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10365,9 +10365,9 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 125846,
+                    "startOffset": 125841,
                     "endColumn": 103,
-                    "endOffset": 125945
+                    "endOffset": 125940
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10384,9 +10384,9 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 125950,
+                    "startOffset": 125945,
                     "endColumn": 95,
-                    "endOffset": 126041
+                    "endOffset": 126036
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10403,9 +10403,9 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 126046,
+                    "startOffset": 126041,
                     "endColumn": 74,
-                    "endOffset": 126116
+                    "endOffset": 126111
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10422,9 +10422,9 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 126121,
+                    "startOffset": 126116,
                     "endColumn": 69,
-                    "endOffset": 126186
+                    "endOffset": 126181
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10441,9 +10441,9 @@
                 "to": {
                     "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 126191,
+                    "startOffset": 126186,
                     "endColumn": 87,
-                    "endOffset": 126274
+                    "endOffset": 126269
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10460,10 +10460,10 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 126279,
+                    "startOffset": 126274,
                     "endLine": 1719,
                     "endColumn": 12,
-                    "endOffset": 126392
+                    "endOffset": 126387
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10481,10 +10481,10 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 126397,
+                    "startOffset": 126392,
                     "endLine": 1721,
                     "endColumn": 12,
-                    "endOffset": 126496
+                    "endOffset": 126491
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10502,10 +10502,10 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 126501,
+                    "startOffset": 126496,
                     "endLine": 1723,
                     "endColumn": 12,
-                    "endOffset": 126600
+                    "endOffset": 126595
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10523,10 +10523,10 @@
                 "to": {
                     "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 126605,
+                    "startOffset": 126600,
                     "endLine": 1725,
                     "endColumn": 12,
-                    "endOffset": 126726
+                    "endOffset": 126721
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10544,9 +10544,9 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 126731,
+                    "startOffset": 126726,
                     "endColumn": 87,
-                    "endOffset": 126814
+                    "endOffset": 126809
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10563,9 +10563,9 @@
                 "to": {
                     "startLine": 1727,
                     "startColumn": 4,
-                    "startOffset": 126819,
+                    "startOffset": 126814,
                     "endColumn": 107,
-                    "endOffset": 126922
+                    "endOffset": 126917
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10582,9 +10582,9 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 126927,
+                    "startOffset": 126922,
                     "endColumn": 99,
-                    "endOffset": 127022
+                    "endOffset": 127017
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10601,9 +10601,9 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 127027,
+                    "startOffset": 127022,
                     "endColumn": 89,
-                    "endOffset": 127112
+                    "endOffset": 127107
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10620,9 +10620,9 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 127117,
+                    "startOffset": 127112,
                     "endColumn": 109,
-                    "endOffset": 127222
+                    "endOffset": 127217
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10639,9 +10639,9 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 127227,
+                    "startOffset": 127222,
                     "endColumn": 83,
-                    "endOffset": 127306
+                    "endOffset": 127301
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10658,9 +10658,9 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 127311,
+                    "startOffset": 127306,
                     "endColumn": 101,
-                    "endOffset": 127408
+                    "endOffset": 127403
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10677,9 +10677,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 127413,
+                    "startOffset": 127408,
                     "endColumn": 83,
-                    "endOffset": 127492
+                    "endOffset": 127487
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10696,9 +10696,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 127497,
+                    "startOffset": 127492,
                     "endColumn": 53,
-                    "endOffset": 127546
+                    "endOffset": 127541
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10715,9 +10715,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 127551,
+                    "startOffset": 127546,
                     "endColumn": 63,
-                    "endOffset": 127610
+                    "endOffset": 127605
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10734,9 +10734,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 127615,
+                    "startOffset": 127610,
                     "endColumn": 105,
-                    "endOffset": 127716
+                    "endOffset": 127711
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10753,9 +10753,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 127721,
+                    "startOffset": 127716,
                     "endColumn": 109,
-                    "endOffset": 127826
+                    "endOffset": 127821
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10772,9 +10772,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 127831,
+                    "startOffset": 127826,
                     "endColumn": 83,
-                    "endOffset": 127910
+                    "endOffset": 127905
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
@@ -10791,9 +10791,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 127915,
+                    "startOffset": 127910,
                     "endColumn": 119,
-                    "endOffset": 128030
+                    "endOffset": 128025
                 },
                 "from": {
                     "file": "/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml",
