@@ -545,12 +545,12 @@ int id cancel_action 0x7f0c006a
 int id catDrop 0x7f0c005b
 int id catView 0x7f0c0064
 int id catpic 0x7f0c005c
-int id checkBox 0x7f0c0061
 int id checkbox 0x7f0c003c
 int id chooseDate 0x7f0c0057
 int id chooseTime 0x7f0c0059
 int id chronometer 0x7f0c0072
 int id collapseActionView 0x7f0c001e
+int id completeCheckBox 0x7f0c0061
 int id contentPanel 0x7f0c0034
 int id custom 0x7f0c003a
 int id customPanel 0x7f0c0039

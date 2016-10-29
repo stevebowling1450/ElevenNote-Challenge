@@ -1840,12 +1840,12 @@ containing a value of this type.
         public static final int catDrop=0x7f0c005b;
         public static final int catView=0x7f0c0064;
         public static final int catpic=0x7f0c005c;
-        public static final int checkBox=0x7f0c0061;
         public static final int checkbox=0x7f0c003c;
         public static final int chooseDate=0x7f0c0057;
         public static final int chooseTime=0x7f0c0059;
         public static final int chronometer=0x7f0c0072;
         public static final int collapseActionView=0x7f0c001e;
+        public static final int completeCheckBox=0x7f0c0061;
         public static final int contentPanel=0x7f0c0034;
         public static final int custom=0x7f0c003a;
         public static final int customPanel=0x7f0c0039;

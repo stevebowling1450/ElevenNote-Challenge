@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="938b17960f5778e2cf730bb8821456f1e1b98b42">
+        sha1="4b64b8052a2aeb5ffb4fff74de52dd1bb18ac903">
         <dex dex="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_568b1ebcb203116ef1c502cb3f17f62dae87b45c/classes.dex" />
     </item>
     <item
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="239258816f224174e6502b347383889a8150f6a3">
+        sha1="4de0d99f3bf38e435922a32241c019beef04175b">
         <dex dex="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a0c71dfda54d908c914d2643eec69c822e653d31/classes.dex" />
     </item>
     <item

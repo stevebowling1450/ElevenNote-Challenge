@@ -1,6 +1,8 @@
 package com.elevenfifty.www.elevennote;
 
+import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
@@ -9,12 +11,15 @@ import android.provider.MediaStore;
 import android.support.v4.app.DialogFragment;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Spinner;
@@ -34,12 +39,24 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
     private static int RESULT_LOAD_IMG = 1;
     String imgDecodableString;
     Spinner spinner;
-
+    CheckBox checkBox;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_note_detail);
+
+//        checkBox = (CheckBox) findViewById(R.id.completeCheckBox);
+//        boolean isChecked = getBooleanFromPreferences("isChecked");
+//        Log.i("start", "" + isChecked);
+//        checkBox.setChecked(isChecked);
+//        checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+//            @Override
+//            public void onCheckedChanged(CompoundButton view, boolean isChecked) {
+//                Log.i("boolean", "" + isChecked);
+//                NoteDetailActivity.this.putBooleanInPreferences(isChecked, "isChecked");
+//            }
+//        });
 
         spinner=(Spinner) findViewById(R.id.catDrop);
        ArrayAdapter adapter=ArrayAdapter.createFromResource(this,R.array.category_arrays,android.R.layout.simple_spinner_item);
@@ -79,6 +96,18 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
             }
         });
     }
+
+//    public void putBooleanInPreferences(boolean isChecked, String key) {
+//        SharedPreferences sharedPreferences = this.getPreferences(Activity.MODE_PRIVATE);
+//        SharedPreferences.Editor editor = sharedPreferences.edit();
+//        editor.putBoolean(key, isChecked);
+//        editor.commit();
+//    }
+//    public boolean getBooleanFromPreferences(String key) {
+//        SharedPreferences sharedPreferences = this.getPreferences(Activity.MODE_PRIVATE);
+//        Boolean isChecked = sharedPreferences.getBoolean(key, false);
+//        return isChecked;
+//    }
 
     @Override
     public void onBackPressed() {
