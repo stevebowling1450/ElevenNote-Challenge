@@ -5,23 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="760001590285"
+    timestamp="3344894163919"
     token="7817583108165219187"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="252" />
+        duration="367" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="43" />
+        duration="83" />
     <task
         name="verifier"
-        duration="1" />
+        duration="4" />
 
+    <artifact
+        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
     <artifact
         location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
         type="DEX" />
@@ -34,8 +40,14 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="760001590285"
+        timestamp="3344894163919"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
         <artifact
             location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />

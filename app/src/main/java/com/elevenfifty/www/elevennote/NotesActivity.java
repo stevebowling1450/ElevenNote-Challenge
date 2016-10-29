@@ -14,6 +14,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Spinner;
+import android.widget.TextView;
 
 import com.google.gson.Gson;
 import java.io.File;
@@ -156,37 +157,7 @@ public class NotesActivity extends AppCompatActivity {
                 }
             }
             writeTodos();
-//        else {
-//            File[] filesDir = this.getFilesDir().listFiles();
-//            for (File file : filesDir) {
-//                if (file.getName().equals(filename)) {
-//                    FileInputStream inputStream = null;
-//                    String title = file.getName();
-//                    Date date = new Date(file.lastModified());
-//                    String text = "";
-//                    String dueDate = "";
-//                    String category = "";
-//                    try {
-//                        inputStream = openFileInput(title);
-//                        byte[] input = new byte[inputStream.available()];
-//                        while (inputStream.read(input) != -1) {
-//                        }
-//                        text += new String(input);
-//                    } catch (Exception e) {
-//                        e.printStackTrace();
-//                    } finally {
-//                        Note note = gson.fromJson(text, Note.class);
-//                        note.setDate(date);
-//                        notesArray.add(note);
-//                        try {
-//                            inputStream.close();
-//                        } catch (Exception ignored) {
-//
-//                        }
-//                    }
-//                }
-//            }
-//        }
+
         }
     }
     private void readTodos(File todoFile) {
@@ -254,4 +225,5 @@ public class NotesActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
 }
