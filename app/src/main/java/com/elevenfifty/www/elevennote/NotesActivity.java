@@ -35,6 +35,7 @@ public class NotesActivity extends AppCompatActivity {
     public static final String NOTE_CATEGORY = "com.elevenfifty.www.elevennote.NOTE_CATEGORY";
     public static final String NOTE_DUEDATE = "com.elevenfifty.www.elevennote.NOTE_DUEDATE";
     public static final String NOTE_DUETIME = "com.elevenfifty.www.elevennote.NOTE_DUETIME";
+    public static final String NOTE_COMPLETE = "com.elevenfifty.www.elevennote.NOTE_COMPLETE";
 
 
 
@@ -80,6 +81,7 @@ public class NotesActivity extends AppCompatActivity {
                 intent.putExtra(NOTE_CATEGORY, note.getCategory());
                 intent.putExtra(NOTE_DUEDATE, note.getDueDate());
                 intent.putExtra(NOTE_DUETIME, note.getDueTime());
+                intent.putExtra(NOTE_COMPLETE, note.getComplete());
 
                 startActivityForResult(intent, 1);
             }
@@ -119,7 +121,8 @@ public class NotesActivity extends AppCompatActivity {
                                 new Date(),
                                 data.getStringExtra(NOTE_CATEGORY),
                     data.getStringExtra(NOTE_DUEDATE),
-            data.getStringExtra(NOTE_DUETIME));
+            data.getStringExtra(NOTE_DUETIME),
+                    data.getStringExtra(NOTE_COMPLETE));
             if (index < 0 || index > notesArray.size() - 1) {
                 notesArray.add(note);
             } else {
@@ -150,7 +153,7 @@ public class NotesActivity extends AppCompatActivity {
                 editor.putBoolean("firstRun", false);
                 editor.apply();
 
-                Note note1 = new Note("Task 1", "This is a task", new Date(), "Shopping", "Due 9/12/17", "5:30am");
+                Note note1 = new Note("Task 1", "This is a task", new Date(), "Shopping", "Due 9/12/17", "5:30am","Complete");
                 notesArray.add(note1);
                 for (Note note : notesArray) {
 

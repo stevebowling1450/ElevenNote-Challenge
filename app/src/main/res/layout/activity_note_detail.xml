@@ -7,14 +7,6 @@
     tools:context="com.elevenfifty.www.elevennote.NoteDetailActivity"
     android:background="#A29785">
 
-    <ImageView
-        android:id="@+id/imgView"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="1
-        ">
-    </ImageView>
-
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -59,16 +51,6 @@
         android:background="@drawable/buttonshape" />
 
     <TextView
-        android:text="Category"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/catDrop"
-        android:layout_alignLeft="@+id/save_button"
-        android:layout_alignStart="@+id/save_button"
-        android:id="@+id/catpic"
-        android:visibility="invisible"/>
-
-    <TextView
         android:text="Please Choose a Category"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -101,7 +83,7 @@
 
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="150dp"
+        android:layout_height="50dp"
         android:inputType="textMultiLine"
         android:ems="10"
         android:id="@+id/note_text"
@@ -124,12 +106,62 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
+    <TextView
+        android:text="Status of Your Task"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/note_text"
+        android:layout_alignLeft="@+id/chooseTime"
+        android:layout_alignStart="@+id/chooseTime"
+        android:layout_marginTop="13dp"
+        android:id="@+id/compText"
+        android:visibility="invisible"/>
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/compText"
+        android:layout_alignLeft="@+id/compText"
+        android:layout_alignStart="@+id/compText"
+        android:id="@+id/completeSpinner"
+        android:visibility="invisible"/>
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:id="@+id/note_title"
         android:background="#CBC7BC"
-        android:layout_below="@+id/imgView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/chooseTime"
+        android:layout_alignStart="@+id/chooseTime" />
+
+    <TextView
+        android:text="Category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/catpic"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/catDrop"
+        android:layout_toRightOf="@+id/chooseDate"
+        android:layout_toEndOf="@+id/chooseDate" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/status"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/completeSpinner"
+        android:layout_toRightOf="@+id/pickCat"
+        android:layout_toEndOf="@+id/pickCat" />
+
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:layout_alignTop="@+id/status"
+        android:layout_alignLeft="@+id/save_button"
+        android:layout_alignStart="@+id/save_button">
+    </ImageView>
 </RelativeLayout>

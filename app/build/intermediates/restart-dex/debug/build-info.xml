@@ -5,52 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3344894163919"
+    timestamp="16729517355164"
     token="7817583108165219187"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="367" />
+        duration="1832" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="83" />
+        duration="669" />
     <task
         name="verifier"
-        duration="4" />
+        duration="2" />
 
     <artifact
-        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
+        location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="677136487780"
+        timestamp="16729517355164"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="3344894163919"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/stevebowling/Desktop/ElevenNote Challenge/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

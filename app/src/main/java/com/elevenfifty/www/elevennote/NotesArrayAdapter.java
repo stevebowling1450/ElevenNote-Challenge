@@ -40,6 +40,7 @@ public class NotesArrayAdapter extends ArrayAdapter<Note> {
         TextView noteCategory = (TextView)notesRow.findViewById(R.id.catView);
         TextView dueDate = (TextView)notesRow.findViewById(R.id.dueView);
         TextView dueTime = (TextView)notesRow.findViewById(R.id.timeDue);
+        //TextView noteComplete = (TextView)notesRow.findViewById(R.id.completeView);
 
 
         Note note = notes.get(position);
@@ -49,6 +50,7 @@ public class NotesArrayAdapter extends ArrayAdapter<Note> {
         noteText.setText(note.getText());
         dueDate.setText(note.getDueDate());
         dueTime.setText(note.getDueTime());
+       // noteComplete.setText(note.getComplete());
         noteDate.setText(formatter.format(note.getDate()));
 
         return notesRow;

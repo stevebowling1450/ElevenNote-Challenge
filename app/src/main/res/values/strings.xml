@@ -11,6 +11,10 @@
         <item>Personal</item>
         <item>Shopping</item>
     </string-array>
+    <string-array name="complete_arrays">
+        <item>Not Complete</item>
+        <item>Complete</item>
+    </string-array>
     <string name="title_activity_note_detail">NoteDetailActivity</string>
     <string name="action_add_note">Add Note</string>
     <string name="delete">Delete</string>

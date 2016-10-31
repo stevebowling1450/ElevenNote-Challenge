@@ -36,10 +36,12 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
     private TextView dueDate;
     private TextView dueTime;
     private TextView noteCat;
+    private TextView noteCom;
     private static int RESULT_LOAD_IMG = 1;
     String imgDecodableString;
     Spinner spinner;
-    CheckBox checkBox;
+    Spinner spinnerCom;
+    public TextView catpicked;
 
 
     @Override
@@ -52,12 +54,19 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
         spinner.setAdapter(adapter);
         spinner.setOnItemSelectedListener(this);
 
+        spinnerCom=(Spinner) findViewById(R.id.completeSpinner);
+        ArrayAdapter adapter1=ArrayAdapter.createFromResource(this,R.array.complete_arrays,android.R.layout.simple_spinner_item);
+        spinnerCom.setAdapter(adapter1);
+        spinnerCom.setOnItemSelectedListener(this);
+
 
         noteTitle = (EditText) findViewById(R.id.note_title);
         noteText = (EditText) findViewById(R.id.note_text);
         dueDate = (TextView) findViewById(R.id.dateView);
         dueTime = (TextView) findViewById(R.id.timeView);
         noteCat = (TextView) findViewById(R.id.catpic);
+        noteCom = (TextView) findViewById(R.id.status);
+
 
         Intent intent = getIntent();
         index = intent.getIntExtra(NotesActivity.NOTE_INDEX, -1);
@@ -67,6 +76,7 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
         dueDate.setText(intent.getStringExtra(NotesActivity.NOTE_DUEDATE));
         dueTime.setText(intent.getStringExtra(NotesActivity.NOTE_DUETIME));
         noteCat.setText(intent.getStringExtra(NotesActivity.NOTE_CATEGORY));
+        noteCom.setText(intent.getStringExtra(NotesActivity.NOTE_COMPLETE));
 
         Button saveButton = (Button) findViewById(R.id.save_button);
         saveButton.setOnClickListener(new View.OnClickListener() {
@@ -79,6 +89,7 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
                 intent.putExtra(NotesActivity.NOTE_DUEDATE, dueDate.getText().toString());
                 intent.putExtra(NotesActivity.NOTE_DUETIME, dueTime.getText().toString());
                 intent.putExtra(NotesActivity.NOTE_CATEGORY, noteCat.getText().toString());
+                intent.putExtra(NotesActivity.NOTE_COMPLETE, noteCom.getText().toString());
                 setResult(RESULT_OK, intent);
                 finish();
 
@@ -128,6 +139,7 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
 
     public void loadImagefromGallery(View view) {
         // Create intent to Open Image applications like Gallery, Google Photos
+        // When an Image is picked
         Intent galleryIntent = new Intent(Intent.ACTION_PICK,
                 android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
         // Start the Intent
@@ -138,7 +150,6 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         try {
-            // When an Image is picked
             if (requestCode == RESULT_LOAD_IMG && resultCode == RESULT_OK
                     && null != data) {
                 // Get the Image from data
@@ -171,19 +182,21 @@ public class NoteDetailActivity extends AppCompatActivity implements AdapterView
 
 
     }
-        public TextView catpicked;
+
     @Override
     public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-        TextView myText= (TextView) view;
+       TextView myText= (TextView) view;
      catpicked =(TextView)findViewById(R.id.catpic);
         catpicked.setText("Category: "+myText.getText());
-
-
-
     }
 
     @Override
     public void onNothingSelected(AdapterView<?> adapterView) {
 
     }
+
+
 }
+
+
+

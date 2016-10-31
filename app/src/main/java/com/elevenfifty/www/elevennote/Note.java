@@ -18,9 +18,12 @@ public class Note implements Comparable<Note> {
     private String category;
     private String dueDate;
     private String dueTime;
+    private String complete;
 
 
-    public Note(String title, String text, Date date, String category, String dueDate,String dueTime) {
+
+
+    public Note(String title, String text, Date date, String category, String dueDate, String dueTime, String complete) {
         this.title = title;
         this.text = text;
         this.date = date;
@@ -28,6 +31,15 @@ public class Note implements Comparable<Note> {
         this.category = category;
         this.dueDate=dueDate;
         this.dueTime=dueTime;
+        this.complete=complete;
+    }
+
+    public String getComplete() {
+        return complete;
+    }
+
+    public void setComplete(String complete) {
+        this.complete = complete;
     }
 
     public String getTitle() {
